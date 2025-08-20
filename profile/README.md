@@ -1,4 +1,4 @@
-<div align="center" style="background-color: white; max-width: 900px; margin: 0 0 14px 0; padding:8px 12px;">
+<div align="center" style="background-color: white; max-width: 900px; margin: 0 0 24px 0; padding:8px 12px;">
   <a href="https://testdino.com" target="_blank" rel="noopener noreferrer">
     <img src="assets/logo.png" width="500px" alt="TestDino Logo">
   </a>
