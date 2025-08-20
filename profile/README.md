@@ -1,6 +1,6 @@
-<div align="center" style="background-color: white; max-width: 1000px; margin: 0 0 18px 0;">
+<div align="center" style="background-color: white; max-width: 900px; margin: 0 0 14px 0; padding:8px 12px;">
   <a href="https://testdino.com" target="_blank" rel="noopener noreferrer">
-    <img src="assets/logo_banner.png" width="700px" alt="TestDino Logo">
+    <img src="assets/logo.png" width="500px" alt="TestDino Logo">
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 </p>
 
 
-<h3 align='center' style="margin-top: 24px;"> AI-Powered Playwright Test Report Analysis Platform </h3>
+<h3 align='center' style="margin-top: 18px;"> AI-Powered Playwright Test Report Analysis Platform </h3>
 
 Testdino empowers QA and development teams to ship faster and with greater confidence by transforming raw Playwright test results into clear, actionable insights. Instead of sifting through noisy logs and endless reports, teams get instant visibility into what failed, why it matters, and what to do next. With AI-driven failure classification, trend analytics, and seamless integration into your existing workflow, Testdino eliminates manual triage and highlights the issues that truly impact your releases—so you can focus on building great products, not chasing test noise.
 
