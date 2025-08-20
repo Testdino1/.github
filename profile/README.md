@@ -67,7 +67,7 @@ Testdino empowers QA and development teams to ship faster and with greater confi
 
 That's it! Your next test run will appear in Testdino with AI-powered insights, failure categorization, and actionable recommendations.
 
-**[Complete Setup Guide →](https://docs.testdino.com/docs/playwright/)**
+**[Complete Setup Guide →](https://docs.testdino.com/docs/getting-started/)**
 
 
 ## Features Overview
@@ -147,9 +147,9 @@ Provides AI-generated short summaries of test runs, highlighting major events an
 
 ### **Documentation**
 - **[Website](https://testdino.com)** - Explore our website
-- **[Getting Started](https://docs.testdino.com/docs)** - Complete setup guide in under 10 minutes
+- **[Getting Started](https://docs.testdino.com/docs/getting-started/)** - Complete setup guide in under 10 minutes
 - **[Platform Guide](https://docs.testdino.com/docs/dashboard/)** - Dashboard, Test Runs, Analytics, and PR integration
-- **[Integrations](https://docs.testdino.com/integrations)** - CI/CD, Jira, Linear, Slack setup guides  
+- **[Integrations](https://docs.testdino.com/docs/integrations/)** - CI/CD, Jira, Linear, Slack setup guides  
 
 
 ### **Learning Resources**
@@ -158,8 +158,8 @@ Provides AI-generated short summaries of test runs, highlighting major events an
 
 
 ## Contacts 
-- **Sales**: [sales@testdino.com](mailto:sales@testdino.com) 
-- **Careers**: [careers@testdino.com](mailto:careers@testdino.com)
+- **Sales**: [sales@testdino.com](support@testdino.com) 
+- **Support**: [careers@testdino.com](support@testdino.com)
 
 
 <p align="center" style="display: flex; gap: 32px; justify-content: center; align-items: center; flex-wrap: wrap;">
