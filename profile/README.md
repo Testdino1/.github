@@ -10,7 +10,7 @@
   <a href="#getting-started" >Getting Started</a> •
   <a href="#features-overview" >Features Overview</a> •
   <a href="#resources" >Documentations & Resources</a> •
-  <a href="#contact">Contacts</a> 
+  <a href="#contacts">Contacts</a> 
 </p>
 
 
@@ -67,7 +67,7 @@ Testdino empowers QA and development teams to ship faster and with greater confi
 
 That's it! Your next test run will appear in Testdino with AI-powered insights, failure categorization, and actionable recommendations.
 
-**[Complete Setup Guide →](https://docs.testdino.com/docs/getting-started/)**
+**[Complete Setup Guide →](https://docs.testdino.com/getting-started/)**
 
 
 ## Features Overview
@@ -147,9 +147,9 @@ Provides AI-generated short summaries of test runs, highlighting major events an
 
 ### **Documentation**
 - **[Website](https://testdino.com)** - Explore our website
-- **[Getting Started](https://docs.testdino.com/docs/getting-started/)** - Complete setup guide in under 10 minutes
-- **[Platform Guide](https://docs.testdino.com/docs/dashboard/)** - Dashboard, Test Runs, Analytics, and PR integration
-- **[Integrations](https://docs.testdino.com/docs/integrations/)** - CI/CD, Jira, Linear, Slack setup guides  
+- **[Getting Started](https://docs.testdino.com/getting-started/)** - Complete setup guide in under 10 minutes
+- **[Platform Guide](https://docs.testdino.com/dashboard/overview/)** - Dashboard, Test Runs, Analytics, and PR integration
+- **[Integrations](https://docs.testdino.com/integrations/overview/)** - CI/CD, Jira, Linear, Slack setup guides  
 
 
 ### **Learning Resources**
@@ -158,15 +158,15 @@ Provides AI-generated short summaries of test runs, highlighting major events an
 
 
 ## Contacts 
-- **Sales**: [sales@testdino.com](support@testdino.com) 
-- **Support**: [careers@testdino.com](support@testdino.com)
+- **Sales**: [support@testdino.com](support@testdino.com) 
+- **Support**: [support@testdino.com](support@testdino.com)
 
 
 <p align="center" style="display: flex; gap: 32px; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <a href="www.testdino.com" target="_blank" rel="noopener noreferrer" title="Join our Discord">
+  <a href="https://discord.gg/hGY9kqSm58" target="_blank" rel="noopener noreferrer" title="Join our Discord">
    <img src="https://static.cdnlogo.com/logos/d/33/discord-wordmark.svg" width='100' height='80px' alt="Discord"></a>
   </a>
- <a href="www.testdino.com"><img src="https://static.cdnlogo.com/logos/x/9/x.svg" width='80' height='30px'></a>
+ <a href="https://x.com/Testdino151016"><img src="https://static.cdnlogo.com/logos/x/9/x.svg" width='80' height='30px'></a>
   <a href="https://www.linkedin.com/company/testdino" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn">
     <img src="https://static.cdnlogo.com/logos/l/15/linkedin-2013.svg" width='80' height='30px' alt="LinkedIn">
   </a>
@@ -180,6 +180,6 @@ Provides AI-generated short summaries of test runs, highlighting major events an
 
 ### **Ready to Transform Your Testing Workflow?**
 
-**[🚀 Start Free Trial](https://testdino.com/)** • **[📖 Read Documentation](https://docs.testdino.com)** • **[💬 Join Community](https://discord.gg/testdino)**
+**[🚀 Start Free Trial](https://testdino.com/)** • **[📖 Read Documentation](https://docs.testdino.com/overview/)** • **[💬 Join Community](https://discord.gg/hGY9kqSm58)**
 
 *Built with ❤️ for the modern testing team*
