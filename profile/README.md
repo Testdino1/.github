@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="#why-testdino" >Why Testdino?</a> •
+  <a href="#why-testdino" >Why TestDino?</a> •
   <a href="#key-features" >Key Features</a> •
   <a href="#getting-started" >Getting Started</a> •
   <a href="#features-overview" >Features Overview</a> •
@@ -14,17 +14,17 @@
 </p>
 
 
-<h3 align='center' style="margin-top: 18px;"> AI-Powered Playwright Test Report Analysis Platform </h3>
+<h3 align='center' style="margin-top: 18px;"> Smart playwright test reporting platform </h3>
 
-Testdino empowers QA and development teams to ship faster and with greater confidence by transforming raw Playwright test results into clear, actionable insights. Instead of sifting through noisy logs and endless reports, teams get instant visibility into what failed, why it matters, and what to do next. With AI-driven failure classification, trend analytics, and seamless integration into your existing workflow, Testdino eliminates manual triage and highlights the issues that truly impact your releases—so you can focus on building great products, not chasing test noise.
-
-
-##  Why Testdino?
+TestDino empowers QA and development teams to ship faster and with greater confidence by transforming raw Playwright test results into clear, actionable insights. Instead of sifting through noisy logs and endless reports, teams get instant visibility into what failed, why it matters, and what to do next. With AI-driven failure classification, trend analytics, and seamless integration into your existing workflow, TestDino eliminates manual triage and highlights the issues that truly impact your releases—so you can focus on building great products, not chasing test noise.
 
 
-1. **Automates Manual Triage :** Engineers save 6-8 hours per week as Testdino automatically consolidates reports and analyzes failures, boosting productivity.
+##  Why TestDino?
 
-2. **Clarifies Failure Causes:** Testdino uses AI to classify failure reasons and highlight critical issues, enabling teams to resolve problems faster and with greater confidence.
+
+1. **Automates Manual Triage :** Engineers save 6-8 hours per week as TestDino automatically consolidates reports and analyzes failures, boosting productivity.
+
+2. **Clarifies Failure Causes:** TestDino uses AI to classify failure reasons and highlight critical issues, enabling teams to resolve problems faster and with greater confidence.
 
 3. **Centralizes Test Data :** All test runs, pull requests, branches, and environments are unified in one platform, giving teams a single source of truth and accelerating decision-making.
 
@@ -60,12 +60,12 @@ Testdino empowers QA and development teams to ship faster and with greater confi
 - name: Run Playwright Tests
   run: npx playwright test --reporter=html,json
 
-- name: Upload to Testdino  
+- name: Upload to TestDino  
   run: npx tdpw path/to/json/report --token ${{ secrets.TESTDINO_API_KEY }}
   if: always()
 ```
 
-That's it! Your next test run will appear in Testdino with AI-powered insights, failure categorization, and actionable recommendations.
+That's it! Your next test run will appear in TestDino with AI-powered insights, failure categorization, and actionable recommendations.
 
 **[Complete Setup Guide →](https://docs.testdino.com/getting-started/)**
 
