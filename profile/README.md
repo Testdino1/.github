@@ -14,7 +14,7 @@
 </p>
 
 
-<h3 align='center' style="margin-top: 18px;"> Smart playwright test reporting platform </h3>
+<h3 align='center' style="margin-top: 18px;"> Smart Playwright Test Reporting Platform </h3>
 
 TestDino empowers QA and development teams to ship faster and with greater confidence by transforming raw Playwright test results into clear, actionable insights. Instead of sifting through noisy logs and endless reports, teams get instant visibility into what failed, why it matters, and what to do next. With AI-driven failure classification, trend analytics, and seamless integration into your existing workflow, TestDino eliminates manual triage and highlights the issues that truly impact your releases—so you can focus on building great products, not chasing test noise.
 
